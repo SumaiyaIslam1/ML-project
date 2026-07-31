@@ -17,26 +17,26 @@ Multiple machine learning algorithms were trained, evaluated, and compared to id
 
 The project consists of two independent classification problems:
 
-### 1. Patient Status Prediction
-
-Predict the patient's status after a road traffic accident using multiple supervised machine learning algorithms.
-
-Notebook:
-
-```
-notebooks/01_Patient_Status_Prediction.ipynb
-```
-
----
-
-### 2. Injury Type Prediction
+### 1. Injury Type Prediction
 
 Predict the type of injury sustained by a patient using the same dataset and preprocessing pipeline.
 
 Notebook:
 
 ```
-notebooks/02_Injury_Type_Prediction.ipynb
+notebooks/injury-type-prediction.ipynb
+```
+
+---
+
+### 2. Patient Status Prediction
+
+Predict the patient's status after a road traffic accident using multiple supervised machine learning algorithms.
+
+Notebook:
+
+```
+notebooks/patient-status-prediction.ipynb
 ```
 
 ---
