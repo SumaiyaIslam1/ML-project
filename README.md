@@ -146,8 +146,8 @@ road-traffic-accident-injury-prediction/
 │
 ├── data/
 ├── notebooks/
-│   ├── 01_Patient_Status_Prediction.ipynb
-│   └── 02_Injury_Type_Prediction.ipynb
+│   ├── injury-type-prediction.ipynb
+│   └── patient-status-prediction.ipynb
 ├── report/
 ├── images/
 ├── README.md
